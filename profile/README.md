@@ -22,10 +22,10 @@ Acreditamos na construção de soluções de longo prazo que proporcionam result
 
 Nosso portfólio de serviços abrange uma variedade de tecnologias e plataformas, entre elas:
 
-- **WordPress**: Criação e personalização de websites, blogs e lojas virtuais.
+- **WordPress, Drupal, Joomla**: Criação e personalização de websites, blogs e lojas virtuais.
 - **Laravel & PHP**: Desenvolvimento de sistemas robustos e escaláveis.
-- **Flutter**: Criação de aplicações móveis para Android e iOS.
-- **JavaScript, React e Vue.js**: Para interfaces de usuário ricas e dinâmicas.
+- **Flutter, React Native, Kotlin**: Criação de aplicações móveis para Android e iOS.
+- **JavaScript, React, Angular, Nest.js, Next.js e Vue.js**: Para interfaces de usuário ricas e dinâmicas.
 - **APIs e Integrações**: Desenvolvemos integrações de sistemas de pagamento, ERP, CRM e mais.
 
 ---
@@ -36,9 +36,10 @@ No nosso GitHub, você pode acessar uma variedade de projetos e repositórios de
 
 ### Exemplos de Projetos:
 
-- **[ecommerce-brasilappshop-com-br](https://github.com/Vancouver-Tec/ecommerce-brasilappshop-com-br)**: Um e-commerce completo desenvolvido em **PHP** e **MySQL**.
-- **[api-vancouvertec-com-br](https://github.com/Vancouver-Tec/api-vancouvertec-com-br)**: API backend com **Laravel** para integração de sistemas.
-- **[site-vancouvertec-com-br](https://github.com/Vancouver-Tec/site-vancouvertec-com-br)**: Website institucional da VancouverTec, desenvolvido em **WordPress**.
+- **[Brasilappshop](https://brasilappshop.com.br)**: Um e-commerce completo venda de sites, sistemas, lojas virtuais, e aplicativos.
+- **[Barbearia](https://barbearia.vancouvertec.com.br/home)**: Sistema + site para barbearia.
+- **[Vancouver-Tec](https://vancouvertec.com.br)**: Website institucional da VancouverTec.
+- **[Gdem](https://gdem.vancouvertec.com.br//app_Login)**: Sistema de guarda documento em nuvem.
 
 Cada projeto segue as melhores práticas de desenvolvimento, com documentação detalhada, testes automatizados e um código limpo e bem estruturado.
 
